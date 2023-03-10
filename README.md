@@ -1,2 +1,2 @@
-# timelord
-A utility for parallel import/export of data between TimescaleDB hypertables and various flatfile formats
+# Finch
+A utility for parallel import/export of data between various online and offline data storage solutions.
