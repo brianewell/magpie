@@ -1,0 +1,13 @@
+[package]
+name = "magpie"
+version = "0.1.0"
+authors = ["Brian Ewell <brian@brianewell.com>"]
+edition = "2021"
+description = "A utility for parallel import/export of data between various online and offline data storage solutions."
+readme = "README.md"
+repository = "https://github.com/brianewell/magpie"
+license = "MPL-2.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
